@@ -42,3 +42,4 @@ git clone https://github.com/Sp1el/lab1-go.git
 cd lab1-go
 
 
+
